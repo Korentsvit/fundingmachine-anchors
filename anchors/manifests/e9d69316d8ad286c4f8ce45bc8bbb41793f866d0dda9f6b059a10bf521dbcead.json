@@ -1,0 +1,126 @@
+{
+  "contract": "sha256-manifest/v0",
+  "repository": "Korentsvit/fundingmachine-ledger",
+  "files": [
+    {
+      "path": "anchors/PROTOCOL.md",
+      "sha256": "283947333a7c3c29158b4c4454ebbb6b1565591aeba7dd221336dc092e755221",
+      "bytes": 5201
+    },
+    {
+      "path": "anchors/sources.json",
+      "sha256": "43a32654768f175f470fcc722579aeba1c306c77a3319fb76b17742423eaf3c7",
+      "bytes": 2144
+    },
+    {
+      "path": "anchors/tsa/digicert.pem",
+      "sha256": "ce7d6b44f5d510391be98c8d76b18709400a30cd87659bfebe1c6f97ff5181ee",
+      "bytes": 1988
+    },
+    {
+      "path": "anchors/tsa/sectigo.pem",
+      "sha256": "8a3dbcb92ab1c6277647fe2ab8536b5c982abbfdb1f1df5728e01b906aba953a",
+      "bytes": 2094
+    },
+    {
+      "path": "certificates/index.jsonl",
+      "sha256": "00f55de15ed62c994224320d38c14ed1c03c0d637fe186c02ce1565d3d52782e",
+      "bytes": 616
+    },
+    {
+      "path": "contracts/anchor-record.json",
+      "sha256": "dc87799e78e8c77a2c36dd72bc71d7845fe9129691d0b6b9c492c69e8ac216b7",
+      "bytes": 340
+    },
+    {
+      "path": "contracts/authorship-map.json",
+      "sha256": "d6a2f9d811588c03a3af9c847001866b811bc0853c9e344ad2fb6f77cd21f11c",
+      "bytes": 315
+    },
+    {
+      "path": "contracts/ledger-certificate.json",
+      "sha256": "a7a0c7204f057d34e84aee4fa8366625a2949978897ea4bb18b10d4370517863",
+      "bytes": 348
+    },
+    {
+      "path": "contracts/ledger-event.json",
+      "sha256": "508df5e8605c4f93a3ba4cc11df01b78501374a433d5b7b836eef5e2df0bff3b",
+      "bytes": 435
+    },
+    {
+      "path": "contracts/ledger-root.json",
+      "sha256": "fc9af255763a5f977fb73f745c260ef9e17a2914a158ca82f5883bd23e8ee475",
+      "bytes": 294
+    },
+    {
+      "path": "contracts/record-certificate.json",
+      "sha256": "73a64121fda2d06d9fba3f4af52973741e3a12e01278dd4f9b0a51bdb2faa51e",
+      "bytes": 446
+    },
+    {
+      "path": "contracts/sha256-manifest.json",
+      "sha256": "c9e8284fc05c54a744143fe8673ea096f23a217485f2a219cc370710647e72bc",
+      "bytes": 371
+    },
+    {
+      "path": "contracts/submission-index.json",
+      "sha256": "e0a20dc681429e00d951d3833c408e357e222a87a7be7ba92880aab303cf8d3a",
+      "bytes": 474
+    },
+    {
+      "path": "schemas/anchor-manifest-v0.schema.json",
+      "sha256": "fb3db47634f030b8c44284dc588929ec7c789c3c047c8d8158be537d91b52132",
+      "bytes": 7628
+    },
+    {
+      "path": "schemas/anchor-record-v0.schema.json",
+      "sha256": "dc0a689a9937e34fec26a885821b2d0cd581af18789de18acc5415ad832bf356",
+      "bytes": 3765
+    },
+    {
+      "path": "schemas/authorship-map-v0.schema.json",
+      "sha256": "3f685c38b81ce8745f9841d2d11f2dbd77b88938868522c9209c40e479208047",
+      "bytes": 9379
+    },
+    {
+      "path": "schemas/ledger-certificate-v0.schema.json",
+      "sha256": "585c092be70701617dcaf6e86a46c88cfd5a9237d4f2362430260dc222128dd7",
+      "bytes": 14904
+    },
+    {
+      "path": "schemas/ledger-event-v0.1.schema.json",
+      "sha256": "629bae903743ffe33c6a8ad6b06824e1b0cb2fd6e43a29c843ac5a74fea2120c",
+      "bytes": 31607
+    },
+    {
+      "path": "schemas/ledger-event-v0.schema.json",
+      "sha256": "08e5572d28582d7b7b1aea08eee2530508006a9cf22f4ee7805f7ae660b3d7fb",
+      "bytes": 18980
+    },
+    {
+      "path": "schemas/ledger-root-v0.schema.json",
+      "sha256": "44655de2829950f70eb922f5a618fba6e41b93bceb0be3e762f15581a7e7d1b7",
+      "bytes": 1638
+    },
+    {
+      "path": "schemas/record-certificate-v0.schema.json",
+      "sha256": "82de238292ab65a50a8c1bc9184d4b720841dfc5a790e32c5b20f65457e475a3",
+      "bytes": 6689
+    },
+    {
+      "path": "schemas/sha256-manifest-v0.schema.json",
+      "sha256": "acce7e0c852ee0cb1cbc220ce1aa739bec4926ad60b83f5feb9c17b6fb0c943d",
+      "bytes": 1449
+    },
+    {
+      "path": "schemas/submission-index-input-v0.schema.json",
+      "sha256": "42bbe5898dea86d650aefefedd8a578b88e9ab2bd1dd0f8890ff59a3ffdc241b",
+      "bytes": 2050
+    },
+    {
+      "path": "schemas/submission-index-v0.schema.json",
+      "sha256": "abc9bcf256cea23c5f0ec3ee3d516dec7275ec9989a0b6d968327515a7c7b016",
+      "bytes": 2518
+    }
+  ]
+}
