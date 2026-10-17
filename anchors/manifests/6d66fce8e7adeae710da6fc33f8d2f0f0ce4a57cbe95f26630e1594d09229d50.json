@@ -1,0 +1,76 @@
+{
+  "contract": "sha256-manifest/v0",
+  "repository": "Korentsvit/fundingmachine-capture",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "1a88e8f542b0e940ed7d3007cc1c2df0eaef814de73426fdebf3eb2a6a9782d4",
+      "bytes": 135
+    },
+    {
+      "path": "conformance/ledger/PIN.json",
+      "sha256": "670344930c2cda48a9ca9eaf096a80f0fc8dc5fa51b48ed192700c07986c8eeb",
+      "bytes": 9155
+    },
+    {
+      "path": "docs/DECISIONS_LOG.md",
+      "sha256": "c3134707207c6e8d5c90c2da042e2a8599a10f7ca010c3c0a58129e468b537a6",
+      "bytes": 22417
+    },
+    {
+      "path": "docs/FIDELITY.md",
+      "sha256": "cf5cc0fac04942c3be09c7abc4e0e66709256a027a1e090f029e78febd295c30",
+      "bytes": 22870
+    },
+    {
+      "path": "docs/TRANSPORT.md",
+      "sha256": "6eb57333b9b876a7720226e3576b14d8d57e0e490f2235e4e6d5cabc57422b42",
+      "bytes": 8450
+    },
+    {
+      "path": "docs/decisions.d/2026-10-17-capture-alpha-fixes-ungated.md",
+      "sha256": "c939dbf4330b95f55fa20fb8f80c68b2d76e5af76a2dd00debf1c3e38ca90d24",
+      "bytes": 562
+    },
+    {
+      "path": "docs/decisions.d/2026-10-17-capture-certificates.md",
+      "sha256": "66e4651f8e92fdc425279e1ea8d351495e8eda14f6504b3004b1b58a10e889b6",
+      "bytes": 1283
+    },
+    {
+      "path": "docs/decisions.d/2026-10-17-capture-ci-pins.md",
+      "sha256": "a343f493ca2081b6366a111ab53c52643281b685c2ede703895ba3be4517810e",
+      "bytes": 666
+    },
+    {
+      "path": "docs/decisions.d/2026-10-17-capture-docs-long-records.md",
+      "sha256": "e04fb0be96375685e5e9f720102b24f5cc1587a42205b2453c4a6bb17463e6c2",
+      "bytes": 1319
+    },
+    {
+      "path": "docs/decisions.d/2026-10-17-capture-docs-settle.md",
+      "sha256": "c9840bfbd62cb2d982dbce883ff302d821d552f85f189d4dc6c77f9edfc09772",
+      "bytes": 1353
+    },
+    {
+      "path": "docs/decisions.d/2026-10-17-capture-owner-answers.md",
+      "sha256": "429d86c45d3c7d187a5cea3635fd0a35f18fb9228c1f7b97226084b0ac8a8b38",
+      "bytes": 2256
+    },
+    {
+      "path": "docs/decisions.d/README.md",
+      "sha256": "66afda3b30733ebc78ca7c66bc0056fa9c420729962691b96819eea1cc1f07dd",
+      "bytes": 485
+    },
+    {
+      "path": "packages/word/manifest/manifest.template.xml",
+      "sha256": "b75d2439eca94e0c679d10b3ce9eff018ff1ce4ca05a4c7ef2ecd8f703d1709a",
+      "bytes": 4431
+    },
+    {
+      "path": "packages/word/manifest/manifest.xml",
+      "sha256": "b72aad916b7ded0370420588068c344f453e2ac55aaf4ad21a853a403cb1f456",
+      "bytes": 4771
+    }
+  ]
+}
