@@ -1,0 +1,51 @@
+{
+  "contract": "sha256-manifest/v0",
+  "repository": "Korentsvit/fundingmachine-capture",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "1a88e8f542b0e940ed7d3007cc1c2df0eaef814de73426fdebf3eb2a6a9782d4",
+      "bytes": 135
+    },
+    {
+      "path": "conformance/ledger/PIN.json",
+      "sha256": "670344930c2cda48a9ca9eaf096a80f0fc8dc5fa51b48ed192700c07986c8eeb",
+      "bytes": 9155
+    },
+    {
+      "path": "docs/DECISIONS_LOG.md",
+      "sha256": "66bc0aa40be6f3484e1e1f1b252b1fa579521e2745b8b2d9880e8a1655b33ccd",
+      "bytes": 31910
+    },
+    {
+      "path": "docs/FIDELITY.md",
+      "sha256": "9919adb14958441098d91cc2266d21757a722bbfe379b0b49d4ba7b5c34d9b39",
+      "bytes": 26656
+    },
+    {
+      "path": "docs/TRANSPORT.md",
+      "sha256": "6eb57333b9b876a7720226e3576b14d8d57e0e490f2235e4e6d5cabc57422b42",
+      "bytes": 8450
+    },
+    {
+      "path": "docs/decisions.d/2026-10-19-gate-description.md",
+      "sha256": "eb2101856f6ddd03c0de6c7591cfa867f58d5e922e04d18da66895211aa283c5",
+      "bytes": 462
+    },
+    {
+      "path": "docs/decisions.d/README.md",
+      "sha256": "66afda3b30733ebc78ca7c66bc0056fa9c420729962691b96819eea1cc1f07dd",
+      "bytes": 485
+    },
+    {
+      "path": "packages/word/manifest/manifest.template.xml",
+      "sha256": "b75d2439eca94e0c679d10b3ce9eff018ff1ce4ca05a4c7ef2ecd8f703d1709a",
+      "bytes": 4431
+    },
+    {
+      "path": "packages/word/manifest/manifest.xml",
+      "sha256": "b72aad916b7ded0370420588068c344f453e2ac55aaf4ad21a853a403cb1f456",
+      "bytes": 4771
+    }
+  ]
+}
