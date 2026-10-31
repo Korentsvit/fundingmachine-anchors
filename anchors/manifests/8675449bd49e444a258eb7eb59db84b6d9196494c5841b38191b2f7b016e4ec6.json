@@ -1,0 +1,231 @@
+{
+ "contract": "sha256-manifest/v0",
+ "repository": "Korentsvit/fundingmachine-core",
+ "files": [
+  {
+   "path": "capital/MANIFEST.sha256",
+   "sha256": "d3f7d6cba3a076c261e244ce4fb76888d6c544b45ec873102dbefba6f8055307",
+   "bytes": 1589
+  },
+  {
+   "path": "capital/checklist/v0.json",
+   "sha256": "1338a031da552c6708572f81fe94c3a5dd65e323f25ebeb1adc42374b96ba823",
+   "bytes": 21064
+  },
+  {
+   "path": "capital/checklist/v1.json",
+   "sha256": "3bc61013aa7cf0f245a9ebf7ab225219a8b63e6e731d1ceea3469d8a5116b065",
+   "bytes": 75884
+  },
+  {
+   "path": "capital/migrations/0001_capital.sql",
+   "sha256": "b4df452f5439a20de3979a8964c1e4317ddf546f0c6c7b89e7c1cf5ce2ee6132",
+   "bytes": 16436
+  },
+  {
+   "path": "capital/migrations/0002_statement_kinds.sql",
+   "sha256": "ea2d5406babde3be48e83d16481aab772f4f2c7b4276b729f290c6230b5aa015",
+   "bytes": 852
+  },
+  {
+   "path": "capital/migrations/0003_person_link.sql",
+   "sha256": "6dcae88813a66bd942a7112f69b280a7a5f43f5f6247d8ff78ee6d74f0b98967",
+   "bytes": 1328
+  },
+  {
+   "path": "capital/migrations/0004_issuer_package_triggers.sql",
+   "sha256": "765aa0b0629c4cd1ab533e5673542ddce5f5aca678fbc4345b437d3e165c1cd4",
+   "bytes": 608
+  },
+  {
+   "path": "capital/migrations/0005_checklist_supersedes.sql",
+   "sha256": "7eca528b71aa7be3b9d34d1761ddbc254300b5b059b5e67ed36cfc805b150c59",
+   "bytes": 321
+  },
+  {
+   "path": "capital/migrations/0006_document_roles.sql",
+   "sha256": "8e7aa984b12f414e77957170ccd9677d6ae767d0d4040f12be215d047a7d3296",
+   "bytes": 691
+  },
+  {
+   "path": "capital/migrations/0007_upload_parts_and_consent.sql",
+   "sha256": "d11cd1c64805aa1a7b9f4f4b54bad130c4f6108fb720cca6fab76fd51c3ff661",
+   "bytes": 2705
+  },
+  {
+   "path": "capital/migrations/0008_marks_extractor_outputs.sql",
+   "sha256": "be405999c7d6bfa648698f50337254e4ea64f9ec2aa0263acf1a6fc9b71ec042",
+   "bytes": 3601
+  },
+  {
+   "path": "capital/migrations/0009_checklist_item_marks.sql",
+   "sha256": "01d602d8f472dd219f1102d062c6c1cbf61eadcbb3062fc14a09ac84254408e4",
+   "bytes": 1151
+  },
+  {
+   "path": "capital/packages/fml.json",
+   "sha256": "79c7461620fcc477537d96e06d79d37e4484815dfef1577911d1e421b37c096f",
+   "bytes": 2779
+  },
+  {
+   "path": "capital/questions/bank-v0.json",
+   "sha256": "e6d87ebc2ae76058cd7535106998e828e1a3e2abe589c2ea36b9ee7fb4a9f374",
+   "bytes": 14511
+  },
+  {
+   "path": "capital/releases/capital-materials-v1/scoreboard-spec.json",
+   "sha256": "5790ad2475c414dbb7720ffced3988bd36ae6970e823786e33ef2b48c26f3901",
+   "bytes": 776
+  },
+  {
+   "path": "capital/schemas/capital-vault-snapshot-v0.schema.json",
+   "sha256": "9a2c8198fb637b8aa813b14096a5a32f30e2bc7b9bc1e0b17a88012b4fffc36f",
+   "bytes": 3029
+  },
+  {
+   "path": "capital/sources.json",
+   "sha256": "7b0e1c610d1c763aaec50175ffa913feed97182cedf6022605cc65d9eef01068",
+   "bytes": 5590
+  },
+  {
+   "path": "docs/decisions.d/2026-10-16-capital-checklist-lineage.md",
+   "sha256": "aeecd3bfa66f0f121f5cfd9b7b7f4621aba3c414450482ac8dd7121ae294f4bb",
+   "bytes": 1144
+  },
+  {
+   "path": "docs/decisions.d/2026-10-16-capital-database-pass.md",
+   "sha256": "f25fa8218e45679e7bfef2bb96608a0c296fc6b94f3a0ff8bbb41be458a8e5e8",
+   "bytes": 1603
+  },
+  {
+   "path": "docs/decisions.d/2026-10-16-capital-day-one.md",
+   "sha256": "916ee948d5747f214edc76e11c30d970bbeaa65455c0f101108c0d896b8de988",
+   "bytes": 5260
+  },
+  {
+   "path": "docs/decisions.d/2026-10-16-capital-real-files.md",
+   "sha256": "09a436aeb18c281027e7ca5780f4a7050731f3eb25289219cedbeca164d237c1",
+   "bytes": 877
+  },
+  {
+   "path": "docs/decisions.d/2026-10-16-capital-statement-kinds.md",
+   "sha256": "78572d193f9976f1b14a413f5c533beb52caf055e3fc5fd936e6f7187beffc31",
+   "bytes": 1047
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-0007-applied.md",
+   "sha256": "913d291593d466ef1523a4785210dfd4347a3cb648eb2a2ba8aa852aeebc4a17",
+   "bytes": 597
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-bankers-checklist.md",
+   "sha256": "c288874edd18e81af517f511c810daff70c19d39f50df777ce696f3ff6730272",
+   "bytes": 4075
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-browser-route.md",
+   "sha256": "89c756e351701faba7987386ffad7fc5b40bb9c3f8746506a28055e8fb527635",
+   "bytes": 3179
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-fml-skeleton.md",
+   "sha256": "695c1371da4669dded58e61eaf0b46f2315d5295b2b4e5ef660c41cfa7ff632e",
+   "bytes": 1379
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-gold-case-answers.md",
+   "sha256": "624fb15667efb688730cee7771f3fb1ad8f00ecf86907876021b22267a08a34b",
+   "bytes": 1215
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-linking-page.md",
+   "sha256": "7c3535dacdecd120bc6277bfc80ba86690bb10b9acbf1de844024d45cfa7f00b",
+   "bytes": 1497
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-product-wall.md",
+   "sha256": "c6a12e5cee90f926fbabffe2e4433cb9f05210cad4cc6b9765e72b5a7e776ff1",
+   "bytes": 2850
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-second-pass.md",
+   "sha256": "5c1d1605a7fd1361e4e66ed2ef0077d6216f46be231d66cf2f57fd3d5c1d5775",
+   "bytes": 2746
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-vercel-entrypoint.md",
+   "sha256": "f54f8a1eea1121ebe3b5ced42cd5302c61267457aa18b344f8cf7ddf3a6bc58b",
+   "bytes": 681
+  },
+  {
+   "path": "docs/decisions.d/2026-10-17-capital-vercel.md",
+   "sha256": "8cbb069966405e5928aab26666569e932925664d44f1c55b8c643e1ad07278b8",
+   "bytes": 5645
+  },
+  {
+   "path": "docs/decisions.d/2026-10-18-capital-statements-file.md",
+   "sha256": "e4289aff229e151137f6493bfd9d21780c1cd210f9246d2550d3a28f3fe9edf3",
+   "bytes": 2040
+  },
+  {
+   "path": "docs/decisions.d/2026-10-18-capital-statements-for-the-corpus.md",
+   "sha256": "7dfed7c127c579ccc0d9c3474d51fa080aaf5b37a43e1926941af872482b31de",
+   "bytes": 940
+  },
+  {
+   "path": "docs/decisions.d/2026-10-19-capital-links-review-and-template.md",
+   "sha256": "d8a9ec31ce78807af68bbf6fa593728245c3712dfb6d06dc9c3b7fa80fe91bcc",
+   "bytes": 1875
+  },
+  {
+   "path": "docs/decisions.d/2026-10-19-capital-staged-skeleton-and-anchoring.md",
+   "sha256": "f94b2add8591e0ca006414655db51ac125b4b6477994a80fa9faf3fba545233b",
+   "bytes": 1182
+  },
+  {
+   "path": "docs/decisions.d/2026-10-19-capital-suggested-links-count.md",
+   "sha256": "b017ffccb52e27ac881019f8aad0fb233c74a6ff4c900b01c9b6f3755f247555",
+   "bytes": 373
+  },
+  {
+   "path": "docs/decisions.d/2026-10-20-capital-accepted-links-count.md",
+   "sha256": "0fd2f4ab418e4db04388d00fa24d76a1110d6d94f1d9f7067901e7771a2cd305",
+   "bytes": 576
+  },
+  {
+   "path": "docs/decisions.d/2026-10-20-capital-links-in-one-transaction.md",
+   "sha256": "2c7f3b4fe514894377629e39928a77cccb59371e91db0278db4bfc2755c236f6",
+   "bytes": 717
+  },
+  {
+   "path": "docs/decisions.d/2026-10-20-capital-links-trace-figures.md",
+   "sha256": "87dc4de6c5ee62fcfa1a538f5fc0582b3e257954f50cce4f5ca8895885456b50",
+   "bytes": 920
+  },
+  {
+   "path": "docs/decisions.d/2026-10-20-capital-pass-id-covers-code.md",
+   "sha256": "8f3c903564ace2cff0c67f4d1649e32d53e6c3d14be38d2f58a9ec4664be8474",
+   "bytes": 854
+  },
+  {
+   "path": "docs/decisions.d/2026-10-20-capital-release-path.md",
+   "sha256": "01106c2d580e09320546dbe45d57e383523a49c0558ff45a4029ab3160f08a20",
+   "bytes": 2730
+  },
+  {
+   "path": "docs/decisions.d/2026-10-22-capital-cut-materials-v1.md",
+   "sha256": "128bd7eda72a1ab6e5eb255ada95530a0388c387b778f7340da4fdbcc8b53182",
+   "bytes": 967
+  },
+  {
+   "path": "docs/decisions.d/2026-10-23-capital-release-pins-counts.md",
+   "sha256": "ae68b47da5c039d89fa80025a58aa2db4293a72adf42125da50b785ee013162e",
+   "bytes": 1043
+  },
+  {
+   "path": "release-asset:scoreboard-manifest.json",
+   "sha256": "86db5fb468a12a9ac8805ed72df3aa31684511f8adc8bb75c9dc78bb22523d5d",
+   "bytes": 1005
+  }
+ ]
+}
