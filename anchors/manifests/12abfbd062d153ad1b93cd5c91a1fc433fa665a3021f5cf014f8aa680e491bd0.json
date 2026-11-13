@@ -1,0 +1,151 @@
+{
+  "contract": "sha256-manifest/v0",
+  "repository": "Korentsvit/fundingmachine-core",
+  "files": [
+    {
+      "path": "dataset/releases/1.6.0/manifest.json",
+      "sha256": "dad426db4a9960be2d17302fdcb0cfabd3e255d1ebc9041d5bce92d9de141a32",
+      "bytes": 1131736
+    },
+    {
+      "path": "dataset/releases/atlas-M1/manifest.json",
+      "sha256": "5bc90e5615aa6d0d9e36483eaf3695bbeb5f3a31ec983f87b8e1269044e87c6e",
+      "bytes": 29640
+    },
+    {
+      "path": "dataset/releases/atlas-M2/manifest.json",
+      "sha256": "8c83574486ff757a51b58050805079df9a8fa60f036728c0bb71dbfe306cea23",
+      "bytes": 1131742
+    },
+    {
+      "path": "dataset/releases/atlas-M3/manifest.json",
+      "sha256": "e2b2d5228fbf47468b502638bfbaf9010ffac2a2d911c6d4fd9a089fd48c787b",
+      "bytes": 1549262
+    },
+    {
+      "path": "dataset/releases/atlas-M4/manifest.json",
+      "sha256": "0de03d7ffc19ef9b36a72c08cd7a88752dd8e20ef01a3a1141bbb17a179bac80",
+      "bytes": 1544010
+    },
+    {
+      "path": "dataset/releases/awards-R1/manifest.json",
+      "sha256": "404e8de30114c49d6b754b35aaa839979fa482205378548117cb343cb65c88f8",
+      "bytes": 11361
+    },
+    {
+      "path": "docs/STANDING_RULINGS.md",
+      "sha256": "1bc60a6758a3026ca18066da9f3f088d540eb1fd041cd118607a6ff68738a146",
+      "bytes": 30070
+    },
+    {
+      "path": "docs/decisions/2026-10-30-owner.md",
+      "sha256": "ba2dcc53b76a7f49ccd6935f871c42a30f74bf8e5843aa52b713d3541bf3e9ff",
+      "bytes": 5635
+    },
+    {
+      "path": "docs/decisions/2026-10-31-counsel.md",
+      "sha256": "a93d82a4fb94b0fd4d15f6d5b49c0a4a1e238c321e5786f0ee6a59bb699be13e",
+      "bytes": 5285
+    },
+    {
+      "path": "docs/decisions/2026-11-03-owner.md",
+      "sha256": "11489f6aa849508fff92d02bbb86260b8adba64ea2d1a5685ffca0ba061642d2",
+      "bytes": 4004
+    },
+    {
+      "path": "gate/records/atlas-M2.json",
+      "sha256": "e03932d3f88aee49815ce679ea0d443c82ba8459b2d26a4abdfa2ba9efa25b81",
+      "bytes": 505
+    },
+    {
+      "path": "gate/records/atlas-M3.json",
+      "sha256": "861e6497352279d283f84f2ac67b8a4d64a45d5766708f2ebc02dabbd8630f5c",
+      "bytes": 505
+    },
+    {
+      "path": "gate/records/atlas-M4.json",
+      "sha256": "f189038390db3d4489053d726c66fde15b6f95636d86573d0a315ca984cec0c1",
+      "bytes": 505
+    },
+    {
+      "path": "gate/records/awards-graph-v1.json",
+      "sha256": "48e97178cc0daed006b7cb78fe9ecb307baf187a2185fa26ef133c8d126062f6",
+      "bytes": 503
+    },
+    {
+      "path": "gate/records/capital-graph-v0.3.0-sample.json",
+      "sha256": "966d508b7e5978b296eec49c6686f57f8b6fb93571ab7143dfa3af720f1e9246",
+      "bytes": 529
+    },
+    {
+      "path": "gate/records/capital-graph-v0.3.1-sample.json",
+      "sha256": "1de49d4fea389cb6f87228945bf0636e943d0119ae7afe3779320afd377aca92",
+      "bytes": 529
+    },
+    {
+      "path": "gate/records/capital-graph-v0.3.3-sample.json",
+      "sha256": "1982208e9fea83daaad971bd9a6ea273145447796baf6effd74a10faaf196761",
+      "bytes": 529
+    },
+    {
+      "path": "gate/records/capital-graph-v0.4.0.json",
+      "sha256": "182d56670881e0f226742923b475f23264dd99a5b52d6fb6f72c614e6e3de301",
+      "bytes": 515
+    },
+    {
+      "path": "gate/records/capital-graph-v0.5.0.json",
+      "sha256": "103885a311f1817f81f78a07d3a670a768bc0495f190cc077867c27a76441a58",
+      "bytes": 515
+    },
+    {
+      "path": "gate/records/capital-materials-v1.json",
+      "sha256": "5a95bb8faab41e99f5735fecb6a2815adefb232b6b472fcb820cd9afa6c65d52",
+      "bytes": 524
+    },
+    {
+      "path": "gate/records/capital-record-v1.json",
+      "sha256": "e970a58fe4eee764f4f604eaf9c73418e2ce47c31d3c42c6341e837c39cc48b5",
+      "bytes": 515
+    },
+    {
+      "path": "gate/records/formulation-studio-v0.json",
+      "sha256": "e387571fb4e847de0ec7ff75bd7ed5129c408796d8f8e26db31f379b9f30a9bc",
+      "bytes": 527
+    },
+    {
+      "path": "gate/records/formulation-v1.json",
+      "sha256": "767faefa09c9c2eafd3ae556402dc3bdcc2bbe9c84b8d326257fa2f3def842f9",
+      "bytes": 507
+    },
+    {
+      "path": "gate/records/formulation-v2.json",
+      "sha256": "f4c880b67340151bc3e6dd07cf81f4c51b92ad094c07da4dbcb81d7734015613",
+      "bytes": 507
+    },
+    {
+      "path": "gate/records/market-v1.json",
+      "sha256": "3f948bcffecfb8c3b8bd6b3b3c0d91375e9a8b48696a7d4659bf449e82cae102",
+      "bytes": 505
+    },
+    {
+      "path": "gate/records/market-v2.json",
+      "sha256": "3aec56a044fd2f2ff79afb7617385a2b2b20f96661a0e12b55c578a5312d5541",
+      "bytes": 505
+    },
+    {
+      "path": "gate/records/market-v3.json",
+      "sha256": "02517c187e4d6965e68bf0963033f5b527aa4e936cca07a185ebdfee0ac15e85",
+      "bytes": 505
+    },
+    {
+      "path": "gate/records/scoreboard-contract-v1.1.json",
+      "sha256": "af6ed4f270f42e1334bb63c3ad1b637152c4f7075c91d6ad125dd4306ba8ac90",
+      "bytes": 525
+    },
+    {
+      "path": "gate/records/v1.6.0.json",
+      "sha256": "7d4c588714d54bbaa9668cad29b4aa01787bc6591138197d78ed0d208f0c1b48",
+      "bytes": 503
+    }
+  ]
+}
