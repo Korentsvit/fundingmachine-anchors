@@ -1,0 +1,141 @@
+{
+  "contract": "sha256-manifest/v0",
+  "repository": "Korentsvit/fundingmachine-capture",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "1a88e8f542b0e940ed7d3007cc1c2df0eaef814de73426fdebf3eb2a6a9782d4",
+      "bytes": 135
+    },
+    {
+      "path": "conformance/ledger/PIN.json",
+      "sha256": "670344930c2cda48a9ca9eaf096a80f0fc8dc5fa51b48ed192700c07986c8eeb",
+      "bytes": 9155
+    },
+    {
+      "path": "docs/DECISIONS_LOG.md",
+      "sha256": "66bc0aa40be6f3484e1e1f1b252b1fa579521e2745b8b2d9880e8a1655b33ccd",
+      "bytes": 31910
+    },
+    {
+      "path": "docs/FIDELITY.md",
+      "sha256": "a5c6ec7c601044b3790e7d41b9e23f7dc92a56462b08946662e4f57da594b960",
+      "bytes": 28349
+    },
+    {
+      "path": "docs/TRANSPORT.md",
+      "sha256": "cf624d3c3c6387be6660c99a8d16070f4999f28711a63610f7289d6ac2cae571",
+      "bytes": 11944
+    },
+    {
+      "path": "docs/decisions.d/2026-10-19-gate-description.md",
+      "sha256": "eb2101856f6ddd03c0de6c7591cfa867f58d5e922e04d18da66895211aa283c5",
+      "bytes": 462
+    },
+    {
+      "path": "docs/decisions.d/2026-10-20-capture-scoreboard.md",
+      "sha256": "ed17aa1a778ffd96f89a4cad1dee35a815eee4bead1ee01d7b1c8dd5f7e513d5",
+      "bytes": 1061
+    },
+    {
+      "path": "docs/decisions.d/2026-10-20-capture-word-path.md",
+      "sha256": "96745aa2e48ac543803cbd1d8a4e4c28df05457821fbd8534091dfdb05872ae3",
+      "bytes": 904
+    },
+    {
+      "path": "docs/decisions.d/2026-10-20-capture-word-run-and-pilot.md",
+      "sha256": "7e22c51685fe03d5085c1098471f047e9aafe60e206c9b5a11e91d1e82360e78",
+      "bytes": 997
+    },
+    {
+      "path": "docs/decisions.d/2026-10-20-gate-tag-releases.md",
+      "sha256": "d6ac2c20ddd0464148fb19274f2a23c869b65c6084961f1b0bd6aa443dcbffc1",
+      "bytes": 504
+    },
+    {
+      "path": "docs/decisions.d/2026-10-22-capture-scoreboard-manifest.md",
+      "sha256": "51b91f44a0646c2c46bf643bc1255ad8536add6851b0af0f7310493989863565",
+      "bytes": 888
+    },
+    {
+      "path": "docs/decisions.d/2026-10-30-capture-owner-answers.md",
+      "sha256": "149f643f3a57f89dc85fecc36d5b8c50cbeea23ff32eb5a923d5b1fa7fef3b41",
+      "bytes": 1610
+    },
+    {
+      "path": "docs/decisions.d/2026-10-31-capture-legal-ruling-12.md",
+      "sha256": "ea09ed99b38e7c8efebaaea36cd0b513cc7ee26c035afcef3e77501704d462df",
+      "bytes": 1679
+    },
+    {
+      "path": "docs/decisions.d/2026-11-01-capture-legal-published.md",
+      "sha256": "a41bbc7aa20671954aa2dce3c3d186411bef097da8de0a457a9c346a47c592ea",
+      "bytes": 1852
+    },
+    {
+      "path": "docs/decisions.d/2026-11-08-capture-core-api-route.md",
+      "sha256": "07bfa003591746ec432c3ae4b0726710d090c87cc6ddd60dea8704cf5346b568",
+      "bytes": 801
+    },
+    {
+      "path": "docs/decisions.d/2026-11-08-capture-install-bundle.md",
+      "sha256": "680447a75fa65e908b4376ef78729e6992ed13753958324e5c8816c3c122d6e1",
+      "bytes": 789
+    },
+    {
+      "path": "docs/decisions.d/2026-11-08-capture-one-door.md",
+      "sha256": "e7968d30a4ac8a32d27e061edfe60da9fe7098667bcbc1d18c67dedebcf09919",
+      "bytes": 1849
+    },
+    {
+      "path": "docs/decisions.d/2026-11-08-capture-public-release.md",
+      "sha256": "e617e5e231e92ed20a2ace89fadc48feab5f86a5716b0cb467fda2e9d0f33f8c",
+      "bytes": 1418
+    },
+    {
+      "path": "docs/decisions.d/2026-11-09-capture-workspace-gdocs.md",
+      "sha256": "a24b94dc965168b46b2819d99c68078382a2fa06e6cf1428964255ce3b7b2ce6",
+      "bytes": 1366
+    },
+    {
+      "path": "docs/decisions.d/README.md",
+      "sha256": "66afda3b30733ebc78ca7c66bc0056fa9c420729962691b96819eea1cc1f07dd",
+      "bytes": 485
+    },
+    {
+      "path": "docs/decisions/2026-10-31-counsel.md",
+      "sha256": "a93d82a4fb94b0fd4d15f6d5b49c0a4a1e238c321e5786f0ee6a59bb699be13e",
+      "bytes": 5285
+    },
+    {
+      "path": "docs/legal/PRIVACY_NOTICE.md",
+      "sha256": "2258624195ad24eeb99d42a1aa89012cc81618654fd591ea7d05df073acb628a",
+      "bytes": 16783
+    },
+    {
+      "path": "docs/legal/TERMS_OF_SERVICE.md",
+      "sha256": "b9abf27eccbb154f9b7e68a16a04fedd45a80f21b083c02781d4652107ca33c8",
+      "bytes": 9641
+    },
+    {
+      "path": "packages/word/manifest/manifest.template.xml",
+      "sha256": "b75d2439eca94e0c679d10b3ce9eff018ff1ce4ca05a4c7ef2ecd8f703d1709a",
+      "bytes": 4431
+    },
+    {
+      "path": "packages/word/manifest/manifest.xml",
+      "sha256": "b72aad916b7ded0370420588068c344f453e2ac55aaf4ad21a853a403cb1f456",
+      "bytes": 4771
+    },
+    {
+      "path": "scoreboard/releases/NOTICE.md",
+      "sha256": "5c054d5c46c8535c9419aba21fe05e95d1b2a5442148fcc683a58548681e3910",
+      "bytes": 1551
+    },
+    {
+      "path": "scoreboard/scoreboard.json",
+      "sha256": "f91d458886d94569ad130b7d7a6d8c03f25303e786f71c8608b92528ba52b594",
+      "bytes": 9347
+    }
+  ]
+}
